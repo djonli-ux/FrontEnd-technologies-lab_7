@@ -1,0 +1,22 @@
+
+
+$header-color: #7E07A9;
+$text-color: #67237F;
+$footer-color: #52026E;
+
+.header {
+  background-color: $header-color;
+  color: white;
+  padding: 20px;
+}
+
+.main {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.footer {
+  background-color: $footer-color;
+  color: white;
+  padding: 20px;
+}
